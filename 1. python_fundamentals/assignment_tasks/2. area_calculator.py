@@ -1,11 +1,8 @@
-
 # ==================================================
 # 2. Simple Area Calculator for Various Shapes
 # ==================================================
 
 def area_calculator():
-    import math
-
     # Step 1: Input shape choice from user
     print("Calculate the area of following shapes:")
     print("1. Circle")
@@ -17,7 +14,8 @@ def area_calculator():
     # Step 2: Circle area calculation
     if shape == "1":
         radius = float(input("Enter the radius of the circle: "))
-        area = math.pi * (radius ** 2)
+        pi = 3.141592653589793  
+        area = pi * (radius ** 2)
         print(f"The area of the circle is: {area:.2f}")
 
     # Step 3: Rectangle area calculation
@@ -49,8 +47,5 @@ def area_calculator():
 # ==================================================
 
 if __name__ == "__main__":
-   
     print("\n===== Simple Area Calculator =====")
     area_calculator()
-
-   
