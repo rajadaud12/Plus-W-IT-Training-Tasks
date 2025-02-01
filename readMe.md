@@ -81,6 +81,6 @@ This repository contains materials, code examples, and assignments for the IT Tr
 
 ---
 
-*Note: This repository is actively maintained and updated. New content will be added as the course progresses.*
+*Note: This repository is actively maintained and updated.New content will be added as the course progresses.*
 
 *Last Updated: February 1, 2025*
