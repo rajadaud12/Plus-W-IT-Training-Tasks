@@ -88,9 +88,9 @@ numbers_set.add(5)  # Adding a duplicate has no effect
 print("Set:", numbers_set)
 
 # Dictionaries: Key-value pairs, unordered, mutable
-student = {"name": "Umair"}  # Key-value pair
-student['name'] = "Talha"    # Update value
-student['age'] = 26          # Add new key-value pair
+student = {"name": "Daud"}  # Key-value pair
+student['name'] = "Afnan"    # Update value
+student['age'] = 20          # Add new key-value pair
 print("Dictionary:", student)
 
 
@@ -107,7 +107,7 @@ print("Implicit conversion result:", result)
 print("Data type of result:", type(result))
 
 # Explicit Conversion: Manually convert data types
-age = "26"      # String
+age = "20"      # String
 integer = 10    # Integer
 age = int(age)  # Convert string to integer
 result = age + integer
