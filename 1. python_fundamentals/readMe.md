@@ -4,7 +4,7 @@
 
 ---
 
-## Repository Structure
+## Directory Structure
 ```
 python_fundamentals/
 ├── assignment_tasks/
