@@ -4,7 +4,6 @@
 ## Course Overview
 This repository contains materials, code examples, and assignments for the IT Training Plus W program. Each class focuses on different aspects of technology and programming, providing a comprehensive learning experience.
 
-
 ## Class Details
 
 ### Class 1: Course Introduction
@@ -73,14 +72,40 @@ This repository contains materials, code examples, and assignments for the IT Tr
    - String operations
    - List manipulation
 
-### Class 3: [Future Topic]
-*[Date to be added]*
-- Content to be added
-- Future assignments
-- Practical exercises
+### Class 3: Control Flow and Functions
+*February 9, 2025*
+
+#### Course Content:
+1. **Control Structures**
+   - Conditional statements (if, elif, else)
+   - Match-case statements
+   - Loops (for, while)
+   - Loop control (break, continue)
+
+2. **Functions**
+   - Function definition and calling
+   - Parameters and arguments
+   - Return values
+   - Lambda functions
+
+#### Assignments:
+1. **Task Management System**
+   - To-do list implementation
+   - Basic CRUD operations
+   - Data structure usage
+
+2. **Data Processing Tools**
+   - Max-min finder
+   - Phonebook application
+   - Inventory management
+
+3. **Financial System Simulation**
+   - ATM system implementation
+   - Transaction handling
+   - Balance management
 
 ---
 
-*Note: This repository is actively maintained and updated.New content will be added as the course progresses.*
+*Note: This repository is actively maintained and updated. New content will be added as the course progresses.*
 
-*Last Updated: February 1, 2025*
+*Last Updated: February 9, 2025*

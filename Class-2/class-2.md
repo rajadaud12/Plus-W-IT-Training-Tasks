@@ -4,19 +4,6 @@
 
 ---
 
-## Directory Structure
-```
-python_fundamentals/
-├── assignment_tasks/
-│   ├── name_formatter.py
-│   ├── area_calculator.py
-│   └── random_password_generator.py
-└── class_code/
-    ├── class_code.ipynb
-    └── practice.ipynb
-```
-
----
 
 ## 1. Class Code Overview
 The class code demonstrates fundamental Python concepts covered during the training sessions.
