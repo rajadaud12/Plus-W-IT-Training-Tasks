@@ -104,6 +104,77 @@ This repository contains materials, code examples, and assignments for the IT Tr
    - Transaction handling
    - Balance management
 
+
+
+
+### Class 4: NumPy Fundamentals and Array Operations
+*February 13, 2025*
+
+#### Course Content:
+1. **Introduction to NumPy**
+   - Installing NumPy
+   - Comparison between Python lists and NumPy arrays
+   - Basic array creation and types
+
+2. **Array Creation and Manipulation**
+   - 1D and 2D arrays
+   - Array initialization methods
+     - zeros(), ones(), full()
+     - linspace() and arange()
+     - random arrays (rand, randint)
+   - Array attributes (shape, size, dimension)
+   - Array reshaping
+
+3. **Array Operations**
+   - Basic arithmetic operations
+   - Array mathematics
+     - Min, max, sum functions
+     - Statistical operations
+   - Broadcasting
+
+4. **Array Indexing and Slicing**
+   - Basic indexing
+   - Negative indexing
+   - Slicing operations
+   - Advanced indexing techniques
+
+5. **Array Manipulation Functions**
+   - Conditional filtering
+   - where() function
+   - put() and take() operations
+
+#### Key Concepts Covered:
+1. **Functions as First-Class Objects**
+   - Function assignment to variables
+   - Passing functions as arguments
+   - Returning functions from other functions
+   - Recursive functions
+
+2. **Documentation and Scope**
+   - Docstrings usage
+   - Local and global variables
+   - Global keyword
+   - Nonlocal variables in nested functions
+
+
+#### Assignments:
+1. **Basic Array Operations**
+   - Create and manipulate different types of arrays
+   - Perform basic mathematical operations
+   - Calculate array statistics
+
+2. **Image Processing Basics**
+   - Create and modify simple image arrays
+   - Apply basic transformations
+   - Implement array slicing for image cropping
+
+3. **Data Analysis Tools**
+   - Implement filtering operations
+   - Create data manipulation functions
+   - Process numerical datasets
+
+
+
 ---
 
 *Note: This repository is actively maintained and updated. New content will be added as the course progresses.*
