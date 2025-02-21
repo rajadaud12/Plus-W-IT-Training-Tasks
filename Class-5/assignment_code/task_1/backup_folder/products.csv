@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,Stock
+201,Laptop,Electronics,1200,15
+202,Smartphone,Electronics,800,30
+203,Desk Chair,Furniture,150,25
+204,Notebook,Stationery,5,100
+205,Headphones,Electronics,200,50
