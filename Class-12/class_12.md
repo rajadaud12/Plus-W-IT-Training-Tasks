@@ -1,5 +1,4 @@
 
-# Python Data Systems and Automation
 ## PLUS W - IT Training
 *Date: April 12, 2025*
 
