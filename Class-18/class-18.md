@@ -1,4 +1,4 @@
-# Containerizing a Django Web App with AWS, GitHub, and Docker
+# Assignment Class 18: Containerizing a Django Web App with AWS, GitHub, and Docker
 
 This guide outlines deploying a Django web app on AWS EC2 by cloning a GitHub repository, setting up the environment, containerizing with Docker, and enabling global access.
 
